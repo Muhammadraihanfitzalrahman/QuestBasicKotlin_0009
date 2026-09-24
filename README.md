@@ -26,3 +26,7 @@ Collection - Set
 Collection - Map
 
 <img width="959" height="537" alt="Cuplikan layar 2026-09-24 213306" src="https://github.com/user-attachments/assets/c3e6902d-a5bb-48a1-b674-f56dcae1508a" />
+
+Conditional Expressions - If
+
+<img width="959" height="539" alt="Cuplikan layar 2026-09-24 213454" src="https://github.com/user-attachments/assets/5f63e7f3-f4d7-4628-87e7-10379acc21a9" />

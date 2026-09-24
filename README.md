@@ -22,3 +22,7 @@ Collection - List
 Collection - Set
 
 <img width="959" height="539" alt="Cuplikan layar 2026-09-24 212955" src="https://github.com/user-attachments/assets/ff84dcd1-290c-4457-9718-c2d29dd1ba9c" />
+
+Collection - Map
+
+<img width="959" height="537" alt="Cuplikan layar 2026-09-24 213306" src="https://github.com/user-attachments/assets/c3e6902d-a5bb-48a1-b674-f56dcae1508a" />

@@ -7,3 +7,6 @@ Variables
 
 <img width="959" height="536" alt="Cuplikan layar 2026-09-24 211404" src="https://github.com/user-attachments/assets/12193eb9-d518-4d2c-a869-18d34b6c0be3" />
 
+String Templates
+
+<img width="959" height="539" alt="Cuplikan layar 2026-09-24 211502" src="https://github.com/user-attachments/assets/a9096f89-3466-40f8-8698-0683c32619fc" />

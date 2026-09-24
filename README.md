@@ -18,3 +18,7 @@ Tipe Data Dasar
 Collection - List
 
 <img width="959" height="539" alt="Cuplikan layar 2026-09-24 212758" src="https://github.com/user-attachments/assets/266ef1a2-6581-46db-8454-8aac074dac13" />
+
+Collection - Set
+
+<img width="959" height="539" alt="Cuplikan layar 2026-09-24 212955" src="https://github.com/user-attachments/assets/ff84dcd1-290c-4457-9718-c2d29dd1ba9c" />

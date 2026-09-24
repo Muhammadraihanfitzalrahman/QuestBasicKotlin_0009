@@ -14,3 +14,7 @@ String Templates
 Tipe Data Dasar
 
 <img width="959" height="539" alt="Cuplikan layar 2026-09-24 212457" src="https://github.com/user-attachments/assets/b79a9772-6f4a-4aa2-8545-9ded9bf3145b" />
+
+Collection - List
+
+<img width="959" height="539" alt="Cuplikan layar 2026-09-24 212758" src="https://github.com/user-attachments/assets/266ef1a2-6581-46db-8454-8aac074dac13" />

@@ -10,3 +10,7 @@ Variables
 String Templates
 
 <img width="959" height="539" alt="Cuplikan layar 2026-09-24 211502" src="https://github.com/user-attachments/assets/a9096f89-3466-40f8-8698-0683c32619fc" />
+
+Tipe Data Dasar
+
+<img width="959" height="539" alt="Cuplikan layar 2026-09-24 212457" src="https://github.com/user-attachments/assets/b79a9772-6f4a-4aa2-8545-9ded9bf3145b" />
